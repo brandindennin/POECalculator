@@ -1,0 +1,29 @@
+Rarity: Unique
+Atziri's Disfavour
+Vaal Axe
+--------
+Two Handed Axe
+Quality: +20% (augmented)
+Physical Damage: 366-500 (augmented)
+Critical Strike Chance: 5.00%
+Attacks per Second: 1.36 (augmented)
+Weapon Range: 15 (augmented)
+--------
+Requirements:
+Level: 75
+Str: 158
+Dex: 98
+Int: 102
+--------
+Sockets: R-B-G-R-R-R 
+--------
+Item Level: 82
+--------
++2 to Level of Socketed Support Gems
+Adds 226 to 286 Physical Damage
+13% increased Attack Speed
+25% chance to cause Bleeding on Hit
++2 to Weapon range
+--------
+"I do not believe in disguising my disappointment."
+- Atziri, Queen of the Vaal
